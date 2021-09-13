@@ -15,3 +15,8 @@ git branch -M main
 
 git push -u origin main
 
+## Local development
+
+
+1. Open index.html in your browser
+
