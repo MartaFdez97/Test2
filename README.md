@@ -20,3 +20,6 @@ git push -u origin main
 
 1. Open index.html in your browser
 
+## Branch changes
+
+2. Test the branch
